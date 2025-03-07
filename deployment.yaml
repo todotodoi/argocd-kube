@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image:
+      - image: todotodoi/argocd-kube:c30fa1a
         name: argocd-kube
